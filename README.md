@@ -38,6 +38,9 @@ so that you guys can check it out and add or delete data to see how the changes 
 
 # Technologies Used
 1)Java: Used for the core coding of the application.
+
 2)Java Swing: Used for developing the graphical user interface.
+
 3)SQL: Used for creating the database structure and storing data.
+
 4)JDBC: Used for connecting the application with the database.
