@@ -19,13 +19,7 @@ so that you guys can check it out and add or delete data to see how the changes 
 
 # Images
 ![](Screenshot%202023-04-05%20121115.png)
-![](Screenshot%202023-04-05%20121254.png)
-![](Screenshot%202023-04-05%20121504.png)
-![](Screenshot%202023-04-05%20121622.png)
-![](Screenshot%202023-04-05%20121718.png)
-![](Screenshot%202023-04-05%20121839.png)
-![](Screenshot%202023-04-05%20121920.png)
-![](Screenshot%202023-04-05%20122001.png)
+
 
 # Features
 
