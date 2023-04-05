@@ -29,8 +29,15 @@ so that you guys can check it out and add or delete data to see how the changes 
 
 # Features
 
-Admin login: The System has a secure login system for admins to access the application's features.
+1)Admin login: The System has a secure login system for admins to access the application's features.
 
-Add Flight: Admins can add new Flights to the System by entering their details such as FlightId, arrival, departure,Fare,Date,Duration and Total seats.
+2)Add Flight: Admins can add new Flights to the System by entering their details such as FlightId, arrival, departure,Fare,Date,Duration and Total seats.
 
-Search flight and Book Ticket: After adding a flight, admins can search flights from one place to another  and add customerid and succesfully book tickets.
+3)Search flight and Book Ticket: After adding a flight, admins can search flights from one place to another  and add customerid and succesfully book tickets.
+
+
+# Technologies Used
+1)Java: Used for the core coding of the application.
+2)Java Swing: Used for developing the graphical user interface.
+3)SQL: Used for creating the database structure and storing data.
+4)JDBC: Used for connecting the application with the database.
