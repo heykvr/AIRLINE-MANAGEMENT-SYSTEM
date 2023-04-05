@@ -16,3 +16,6 @@ For simplicity I used :
 username : admin
 password : admin
 so that you guys can check it out and add or delete data to see how the changes are shown in the website.
+
+#Images
+
