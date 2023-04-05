@@ -44,3 +44,15 @@ so that you guys can check it out and add or delete data to see how the changes 
 3)SQL: Used for creating the database structure and storing data.
 
 4)JDBC: Used for connecting the application with the database.
+
+
+# How to Use
+To use the application, you can follow these steps:
+
+1)Clone the repository to your local machine using git clone
+
+2)Open the project in your favorite IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans)
+
+3)Configure the database connection details in the database.properties file
+
+4)Run the application by executing the Main.java file
