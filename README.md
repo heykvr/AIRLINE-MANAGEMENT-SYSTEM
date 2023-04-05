@@ -26,3 +26,11 @@ so that you guys can check it out and add or delete data to see how the changes 
 ![](Screenshot%202023-04-05%20121839.png)
 ![](Screenshot%202023-04-05%20121920.png)
 ![](Screenshot%202023-04-05%20122001.png)
+
+# Features
+
+Admin login: The System has a secure login system for admins to access the application's features.
+Add Flight: Admins can add new Flights to the System by entering their details such as FlightId, arrival, departure,Fare,Date,Duration and Total seats.
+Search flight and Book Ticket: After adding a flight, admins can search flights from one place to another  and add customerid and succesfully book tickets.
+View student data: The portal displays all student data in a tabular format, including their name, roll number, email, phone number, and overall percentage.
+Search student data: Students can search for their roll number in the portal to view all their data, including their overall percentage.
